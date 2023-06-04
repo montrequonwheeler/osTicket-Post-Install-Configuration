@@ -84,7 +84,7 @@ System Administrators
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/e342a05a-9f76-4683-9409-3174e816d0a1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Teams
@@ -95,7 +95,7 @@ Level II Support
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/da85bf8a-1e44-4ec7-8c9e-2116e1ca74db" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets
@@ -105,7 +105,7 @@ Registration Required: Require registration and login to create tickets
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/832e314a-f4b0-444d-aeff-d427b7279776" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Agents (workers)
