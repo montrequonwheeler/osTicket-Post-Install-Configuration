@@ -8,8 +8,7 @@ This walkthrough outlines the post-install configuration of the open-source help
 Now we’ll login into osTicket as the admin through the link provided in the documents and use the shared file as a point of reference to configure osTicket for practice as the admin and end user. 
 
 To keep things simple and short for the entire project we’ll leave the mail settings default. 
-
-When configuring the agents, make sure to set the password and do not require password change at login. The roles assigned to Jane will System Admin <br />
+<br />
 
 
 <h2>Video Demonstration</h2>
@@ -112,11 +111,12 @@ Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane
 John
+When configuring the agents, make sure to set the password and do not require password change at login. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/cd21beae-fa26-42e4-9a92-533489236614" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Users (customers)
@@ -127,7 +127,7 @@ Ken
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/9349b4c7-9bb5-430e-a4af-ff39676e359f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA
@@ -139,7 +139,7 @@ Sev-C (8 hours, business hours)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/3522a767-656b-46e4-a9ea-ebece2c94e7b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics
