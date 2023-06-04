@@ -5,6 +5,8 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This walkthrough outlines the post-install configuration of the open-source help desk ticketing system osTicket. In the last lab we installed all the prerequisites and installed osTicket. In case you took a break, open azure portal and recopy the ip address becuase it might’ve changed if you closed or shutdown the VM. 
 
+There will also be a video demonstration of this portion of the project in it's entirety in the YouTube link below in case of any hiccups along the process. For the short videos provided, you can simply click the video and it should open in a new tab for better guidance.
+
 Now we’ll login into osTicket as the admin through the link provided in the documents and use the shared file as a point of reference to configure osTicket for practice as the admin and end user. 
 
 To keep things simple and short for the entire project we’ll leave the mail settings default. 
@@ -18,7 +20,7 @@ To keep things simple and short for the entire project we’ll leave the mail se
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (Microsoft Remote Access in the App Store for MAC users)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
