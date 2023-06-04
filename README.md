@@ -64,7 +64,7 @@ Password Reset
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/9XlNakp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/bccab172-9083-4074-89cd-7e621e316046" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Roles
@@ -74,7 +74,7 @@ Supreme Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/post-install-config/assets/127397594/86b6c31e-17fc-45da-833b-54fc11224f0d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments
@@ -84,7 +84,7 @@ System Administrators
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Teams
@@ -95,7 +95,7 @@ Level II Support
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets
