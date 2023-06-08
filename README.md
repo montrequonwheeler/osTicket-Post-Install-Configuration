@@ -15,7 +15,7 @@ To keep things simple and short for the entire project we’ll leave the mail se
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/Nq5glaCfzyU)
 
 <h2>Environments and Technologies Used</h2>
 
